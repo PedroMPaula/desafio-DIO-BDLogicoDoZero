@@ -47,6 +47,8 @@ Cliente ─────< Veiculo >──────< OrdemServico >────
 
 ```
 desafio-DIO-BDLogicoDoZero/
+├── Diagrama/
+    ├── modeloLogico.mwb   → Modelo ER
 ├── sql/
 │   ├── Criacao.sql   → DDL: criação de tabelas, views e constraints
 │   ├── Povoamento.sql     → DML: dados de teste (10 clientes, 11 veículos, 15 OS...)
